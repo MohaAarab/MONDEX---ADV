@@ -4,7 +4,7 @@ Application web de gestion de cartes **Yu-Gi-Oh!**, développée dans le cadre d
 
 Cette version fait évoluer le précédent Mon Dex : les créatures sont désormais lues, créées, modifiées et supprimées via une **API REST locale avec json-server**, au lieu d'être stockées dans `data.js` ou dans le LocalStorage.
 
-**Dépôt GitHub :** https://github.com/MohaAarab/Sprint-3-Brief-2-Le-Dex-et-mes-quipes.git  
+**Dépôt GitHub :** [https://github.com/MohaAarab/Sprint-3-Brief-2-Le-Dex-et-mes-quipes.git  ](repo link)
 
 
 > **Démonstration en local :** l'API fonctionne sur `http://localhost:3000`. Le projet n'est pas prévu pour GitHub Pages sans hébergement séparé de l'API.
